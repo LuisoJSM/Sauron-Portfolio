@@ -1,1 +1,20 @@
+/* GENERALES */
 
+
+
+
+
+
+/* SOBRE MI */
+
+/* BarraSkill : Barra de progreso */
+.barraSkill {
+    background-color: #c66b20;
+    /* Color azul */
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+/* MEDIA QUERYS */
