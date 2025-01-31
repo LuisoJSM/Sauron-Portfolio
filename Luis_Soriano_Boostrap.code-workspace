@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Luis_Soriano_Boostrap",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../../../Users/oficina14/Downloads/startbootstrap-freelancer-gh-pages/startbootstrap-freelancer-gh-pages/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Luis_Soriano_Boostrap"
+	}
+}
